@@ -256,7 +256,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 This repository contains forward-looking statements subject to risks and uncertainties. ALETHEA Protocol is in early development stage. Past performance does not guarantee future results. This is not financial advice or a securities offering.
 
-For investment inquiries, please contact: invest@alethea.foundation
+For investment inquiries, please contact: aletheaprotocol@gmail.com
 
 ---
 
