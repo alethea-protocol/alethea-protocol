@@ -230,7 +230,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 📖 [**Whitepaper**](./docs/ALETHEA_PROTOCOL_Whitepaper_v1.0.pdf) - Complete technical specification (90+ pages)
 - 🌐 [**Website**](https://alethea.foundation) - Official protocol website *(Coming Soon)*
 - 💬 [**Discord**](https://discord.gg/alethea) - Community discussions *(Coming Soon)*
-- 🐦 [**Twitter**]([https://twitter.com/AletheaProtocol]([https://x.com/ALETHEAProtocol](https://twitter.com/AletheaProtocol))) 
+- 🐦 [**Twitter**]([https://twitter.com/AletheaProtocol](https://twitter.com/AletheaProtocol)
 - 📊 [**Documentation**](./docs/) - Technical deep-dives
 
 ---
