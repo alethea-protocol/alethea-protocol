@@ -209,6 +209,7 @@ ALETHEA is an **open-source protocol** (MIT License). We welcome contributions f
 **Current Priority:** Core team assembly for Phase 1 (Testnet) development.
 
 📧 **Contact:** aletheaprotocol@gmail.com 
+
 💬 **Discord:** [Coming Soon]  
 🐦 **Twitter:** [@AletheaProtocol](https://twitter.com/AletheaProtocol)
 
